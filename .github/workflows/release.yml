@@ -40,7 +40,7 @@ jobs:
         env:
           GH_TOKEN: ${{ github.token }}
 
-      #- name: Merge release PR
-      #  run: "gh pr merge ${{ steps.release-pr.outputs.number }} --squash"
-      #  env:
-      #    GH_TOKEN: ${{ github.token }}
+      - name: Merge release PR
+        run: "gh pr merge ${{ steps.release-pr.outputs.number }} --squash"
+        env:
+          GH_TOKEN: ${{ github.token }}
