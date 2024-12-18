@@ -1,5 +1,12 @@
 # Changelog
 
+## 1.0.0 (2024-12-18)
+
+
+### Features
+
+* Add support for generating release notes using release please ([c2eaad3](https://github.com/nils1k/release-please/commit/c2eaad3d9e332e87c027e2ef2fd268ac5b509bc4))
+
 ## [1.1.0](https://github.com/nils1k/release-please-test/compare/v1.0.0...v1.1.0) (2024-12-18)
 
 
