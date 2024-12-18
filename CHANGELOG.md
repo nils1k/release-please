@@ -1,5 +1,17 @@
 # Changelog
 
+## [1.1.0](https://github.com/nils1k/release-please/compare/v1.0.0...v1.1.0) (2024-12-18)
+
+
+### Features
+
+* Add support for automatic merge of release notes pr ([6b61b4f](https://github.com/nils1k/release-please/commit/6b61b4fa397cc2f2fe6ec1a7aba05d7f7688f01b))
+
+
+### Bug Fixes
+
+* Add comment to build.gradle ([f5b2ee0](https://github.com/nils1k/release-please/commit/f5b2ee0718f2f53dbc305c6081689fb467ab39df))
+
 ## 1.0.0 (2024-12-18)
 
 
