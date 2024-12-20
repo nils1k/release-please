@@ -33,6 +33,8 @@ jobs:
       - name: Show my version
         run: 'echo "version is ${{ steps.version.outputs.value }}"'
 
+      # Lager vi artefakter og versjonerer dem
+
       - name: Store release PR number
         id: release-pr
         run: |
