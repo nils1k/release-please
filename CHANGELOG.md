@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.2.0](https://github.com/nils1k/release-please/compare/v1.1.0...v1.2.0) (2024-12-20)
+
+
+### Features
+
+* Add lovely comment to release workflow ([7aaa225](https://github.com/nils1k/release-please/commit/7aaa2258bd010737e1a78aaf0bba4f6daba31ac5))
+
 ## [1.1.0](https://github.com/nils1k/release-please/compare/v1.0.0...v1.1.0) (2024-12-18)
 
 
